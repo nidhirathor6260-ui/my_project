@@ -1,0 +1,35 @@
+
+h1{
+    background-color: aqua;
+}
+p{
+    background-color:bisque
+}
+table ,th,td{
+     border: 1px solid black;
+     border-collapse: collapse;
+}
+th,td{
+    padding: 5px;
+    text-align: center;
+}
+#username{
+    margin-top:10px;
+}
+a:visited{
+    color: pink
+
+}
+a:link{
+    color: green;
+}
+a:hover{
+    color:blue;
+}
+a:active{
+    color:brown;
+    background-color: yellow;
+}
+div>p{
+    color:blueviolet
+}
